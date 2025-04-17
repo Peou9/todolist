@@ -1,4 +1,4 @@
-# [todo list](https://peou9.github.io/todolist/)
+# [todo list](https://peou9.github.io/todolist/) 결과물 링크
  ![todolist](https://github.com/user-attachments/assets/b08ee660-1b3e-4dc5-9612-142bf718fdad)
 
 ## 프로젝트 소개
