@@ -1,4 +1,4 @@
-# todo list
+# [todo list](https://peou9.github.io/todolist/)
  ![todolist](https://github.com/user-attachments/assets/b08ee660-1b3e-4dc5-9612-142bf718fdad)
 
 ## 프로젝트 소개
@@ -28,6 +28,3 @@
 - 등록된 목록을 클릭시 취소선으로 표시
 
 6. LocalStorage 유지
-
-### [todo list Rink](https://peou9.github.io/todolist/)
-
